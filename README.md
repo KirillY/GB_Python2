@@ -17,5 +17,3 @@ Geekbrains. Python-2 project
 * Документирование
 * Оптимизация
 * Сборка и распространение приложений
-
-#MYBRANCH MASTER
